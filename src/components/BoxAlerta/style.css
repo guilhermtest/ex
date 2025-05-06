@@ -1,0 +1,7 @@
+.BoxAlerta-container {
+    background-color: #ee79d5;
+    font-size: 100px;
+    border: 30px solid #ff0000;
+    text-align: center;
+    border-radius: 10px;
+}
